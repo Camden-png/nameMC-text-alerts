@@ -23,5 +23,5 @@ Any available usernames are then texted to a specifc phone number.
 
 ## Support:
 * Windows :heavy_check_mark:
-* Linux: :question:
+* Linux: :heavy_check_mark:
 * Mac: :question:
