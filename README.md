@@ -14,6 +14,9 @@
   * last line: insert an [SMS gateway email](https://20somethingfinance.com/how-to-send-text-messages-sms-via-email-for-free/)
 * python NameScraper.py (*optional delay*)
 
+## Example:
+![](Images/Example.png)
+
 ## Support:
 * Windows :heavy_check_mark:
 * Linux: :question:
