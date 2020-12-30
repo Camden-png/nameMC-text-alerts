@@ -1,0 +1,6 @@
+name_1
+name_2
+name_3
+your_account@gmail.com
+your_password
+your_number@txt.att.net
