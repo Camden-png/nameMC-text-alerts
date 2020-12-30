@@ -1,5 +1,9 @@
 # NameMC Text Alerts
 
+## Synopsis:
+This Python script repeatedly scrapes [NameMC](https://namemc.com/) on a set duration to check the availability of usernames.  
+Any available usernames are then texted to a specifc phone number.
+
 ## Requirements:
 * [Python 3.0+](https://www.python.org/)
 * [Requests Library](https://requests.readthedocs.io/en/master/) - *pip install requests*
@@ -11,8 +15,8 @@
   * Put one username per line
   * 3rd to last line: your gmail
   * 2nd to last line: your gmail 2-factor verification code
-  * last line: insert an [SMS gateway email](https://20somethingfinance.com/how-to-send-text-messages-sms-via-email-for-free/)
-* python NameScraper.py (*optional delay*)
+  * last line: insert an [SMS gateway email](https://20somethingfinance.com/how-to-send-text-messages-sms-via-email-for-free/) to text your phone
+* python NameScraper.py (*optional minute delay*)
 
 ## Example:
 ![](Images/Example.png)
