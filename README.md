@@ -1,7 +1,7 @@
 # NameMC Text Alerts
 
 ## Synopsis:
-This Python script repeatedly scrapes [NameMC](https://namemc.com/) on a set duration to check the availability of usernames.  
+This Python script repeatedly scrapes [NameMC](https://namemc.com/) on a set duration to check the availability of Minecraft usernames.  
 Any available usernames are then texted to a specifc phone number.
 
 ## Requirements:
