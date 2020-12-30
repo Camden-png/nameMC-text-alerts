@@ -2,6 +2,7 @@ import os
 import sys
 import time
 import smtplib
+import platform
 
 try:
     import requests
@@ -19,7 +20,9 @@ wait = 1
 old = ""
 list = []
 
-def clear(): os.system("cls")
+def clear():
+    if platform.system() == "Windows": os.system("cls")
+    else: os.system("clear")
 
 def main():
     global wait
