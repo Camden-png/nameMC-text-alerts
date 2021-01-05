@@ -19,7 +19,7 @@ Any available usernames are then texted to a specifc phone number.
 * python NameScraper.py (*optional minute delay*)
 
 ## Example:
-![](Images/Example.png)
+![](Images/Example1.png)
 
 ## Support:
 * Windows :heavy_check_mark:
