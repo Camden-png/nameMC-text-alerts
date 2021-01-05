@@ -20,7 +20,6 @@ Any available usernames are then texted to a specifc phone number.
 
 ## Example:
 ![](Images/Example1.png)  
-![](Images/Example2.png)
 
 ## Support:
 * Windows :heavy_check_mark:
