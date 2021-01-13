@@ -25,7 +25,9 @@ def clear():
     else: os.system("clear")
 
 def main():
+    clear()
     global wait
+    global list
     try:
         value = int(sys.argv[1])
         if value > 0: wait = value
@@ -40,7 +42,6 @@ def main():
     if not string:
         print("Error: Names.txt is empty!")
         return 1
-    global list
     for line in string.split("\n"):
         line = "".join(line.split())
         if line: list.append(line)
@@ -76,7 +77,6 @@ def loop():
     print("Updated...")
     return 0
 
-clear()
 if main() == 0:
     while True:
         try:
