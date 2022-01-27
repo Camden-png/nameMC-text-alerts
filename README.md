@@ -2,7 +2,7 @@
 
 ## Synopsis:
 This Python script repeatedly scrapes [NameMC](https://namemc.com/) on a set duration to check the availability of Minecraft usernames.  
-Any available usernames are then texted to a specifc phone number.
+Any available usernames are then texted to a specific phone number.
 
 ## Requirements:
 * [Python 3.0+](https://www.python.org/)
